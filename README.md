@@ -5,11 +5,9 @@ I'm a self-taught passionate Full-Stack Web developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love making interactive and fun websites
 
 - 💬 Ask me about anything [here](https://github.com/typeerror101/typeerror101/issues)
 
@@ -23,22 +21,3 @@ I'm a self-taught passionate Full-Stack Web developer from India 🇮🇳
 | <a href="https://github.com/typeerror101/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=typeerror101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Larosh's github stats" /></a> | <a href="https://github.com/typeerror101/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeerror101&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/typeerror101/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typeerror101&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/typeerror101/typeerror101.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typeerror101&repo=typeerror101.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/Larxsh">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/typeerror101/typeerror101/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/typeerror101">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/typeerror101/typeerror101/master/assets/codesandbox.svg" />
-</a>
