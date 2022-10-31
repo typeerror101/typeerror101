@@ -5,8 +5,6 @@ I'm a self-taught passionate Full-Stack Web developer from India 🇮🇳
 
 **About me**
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
 - ❤️ I love making interactive and fun websites
 
 - 💬 Ask me about anything [here](https://github.com/typeerror101/typeerror101/issues)
