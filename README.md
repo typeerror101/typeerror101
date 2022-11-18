@@ -1,9 +1,12 @@
- <h1 align="center">Hey <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/waving-hand_1f44b.png" width="28"/> , I am  Larosh Benny! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/red-heart_2764-fe0f.png" width="28"/></h1>
+
+<p align="center"><a href="https://github.com/typeerror101"><img width="80%" alt="Hello, I'm Larosh Benny I do Web Development!" src="./assets/header-img.png" /></a></p>
+
+<br />
 
 
 
 <p align="center">
-  <a href="https://github.com/akhilraaaj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Full%20Stack%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/typeerror101"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Full%20Stack%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 
