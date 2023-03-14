@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://github.com/typeerror101"><img width="80%" alt="Hello, I'm Larosh Benny I do Web Development!" src="./assets/I'm Larosh Benny (3).png" /></a></p>
+<p align="center"><a href="https://github.com/typeerror101"><img width="80%" alt="Hello, I'm Larosh Benny I do Web Development!" src="./assets/inkpx-word-art.png" /></a></p>
 
 <br />
 
