@@ -16,6 +16,8 @@ I'm a self-taught passionate Full-Stack Web developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/typeerror101/typeerror101/issues)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=typeerror101&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 ## ⚡**TechStack:**
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
