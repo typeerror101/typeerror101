@@ -2,12 +2,13 @@
 <p align="center"><a href="https://github.com/typeerror101"><img width="80%" alt="Hello, I'm Larosh Benny I do Web Development!" src="./assets/inkpx-word-art (3).png" /></a></p>
 
 
-
-  <a href="https://github.com/typeerror101"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Full%20Stack%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<p align="center">
+  <a href="https://github.com/typeerror101"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Full%20Stack%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a></p>
 
 
 
   <br/>
+ 
 I'm a self-taught passionate Full-Stack Web developer from India 🇮🇳
 
 **About me**
@@ -15,7 +16,7 @@ I'm a self-taught passionate Full-Stack Web developer from India 🇮🇳
 - ❤️ I love making interactive and fun websites
 
 - 💬 Ask me about anything [here](https://github.com/typeerror101/typeerror101/issues)
-- 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=typeerror101&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
  
 
